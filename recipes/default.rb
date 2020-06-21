@@ -4,4 +4,4 @@
 #
 # Copyright (c) 2020 The Authors, All Rights Reserved.
 
-include_recipe 'apache::server'
+include_recipe 'chef_learning::server'
